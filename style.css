@@ -11,6 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #353436;
+    text-align: center;
 }
 .load_p {
     color: #eed9b7;
